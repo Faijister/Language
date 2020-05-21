@@ -1,0 +1,5 @@
+#+TITLE: Jane Daily English Learning Record
+#+DESCRIPTION: English learning history by Jane
+#+AUTHOR: Leo
+* Thu May 21 12:55:26 2020
+[[./images/jel20200521.PNG]]
