@@ -3,3 +3,5 @@
 #+AUTHOR: Leo
 * Thu May 21 12:55:26 2020
 [[./images/jel20200521.PNG]]
+* Fri May 22 20:39:13 2020
+[[./images/jel20200522.PNG]]
