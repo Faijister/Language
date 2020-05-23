@@ -1,0 +1,7 @@
+#+TITLE: Java Learning
+#+DESCRIPTION: Java learning code
+#+AUTHOR: FannyXL
+* Code
+- [[file:code/HelloWorld.java][HelloWorld]]
+- [[file:code/FailFast.java][FastFail]]
+- [[file:code/NioChatServer.java][NioChatServer]]
