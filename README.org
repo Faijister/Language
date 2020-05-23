@@ -13,4 +13,6 @@
 ** Python
 - [[file:Python/python-learn.org][Python Language Learning]]
 ** Shell
-- [[file:SHELL/bash/bash.org][Bash]]
+- [[file:Shell/bash/bash.org][Bash]]
+** Lisp
+- [[file:Lisp/README.md][Lisp]]
