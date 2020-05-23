@@ -5,4 +5,6 @@
 ** English
 - [[file:English/jane-daily.org][Jane's Daily English Learning]]
 ** Java
-- [[file:Java/java-learn.org][Java Learning]]
+- [[file:Java/java-learn.org][Java Language Learning]]
+** C
+- [[file:C/c-learn.org][C Language Learning]]
