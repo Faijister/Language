@@ -1,5 +1,5 @@
 #+TITLE: TIJ4
-#DESCRIPTION: contain the code while learning the book "Thinking in Java"
-#AUTHOR: Leo
-#TIME: 2016/10/15
+#+DESCRIPTION: contain the code while learning the book "Thinking in Java"
+#+AUTHOR: Leo
+#+TIME: 2016/10/15
 * Thinking in Java edition 4
