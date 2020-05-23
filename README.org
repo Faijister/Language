@@ -12,3 +12,5 @@
 - [[file:C/csapp/csapp-learn.org][CSAPP]]
 ** Python
 - [[file:Python/python-learn.org][Python Language Learning]]
+** Shell
+- [[file:SHELL/bash/bash.org][Bash]]

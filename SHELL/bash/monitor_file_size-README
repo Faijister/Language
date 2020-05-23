@@ -1,0 +1,8 @@
+Kill all tcpdump process once the dump files is larger then 20M
+
+How to use:
+2.	Put monitor_file_size.sh to any dirctory, for example:/cluster/tcpdump/
+3.	chmod +x /cluster/tcpdump/monitor_file_size.sh
+4.	run tcpdump
+5.	/cluster/tcpdump/monitor_file_size.sh <file name>
+for example: /cluster/tcpdump/monitor_file_size.sh /cluster/tcpdump/cap1.cap 

@@ -1,0 +1,18 @@
+script dir:
+10.170.57.3:/root/conf/conf_auto_generator
+
+procedure:
+1. ssh to 10.170.57.3 with root account
+ssh root@10.170.57.3
+2. go to the dir:
+cd /root/conf/conf_auto_generator
+3. generate the template you need
+./generate <ip-subrack> <template> # generate configure for subrack
+
+./generate ip-subrack4 cluster1.conf.template # generate cluster.conf for cluster4-1
+./generate ip-subrack4 cluster2.conf.template # generate cluster.conf for cluster4-2
+./generate ip-subrack4 evip1.conf.template # generate evip.conf for cluster4-1
+./generate ip-subrack4 evip2.conf.template # generate evip.conf for cluster4-2
+
+
+NOTE: generated configure file name is GED-<template>
