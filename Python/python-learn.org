@@ -1,0 +1,4 @@
+#+TITLE: Python
+#+DESCRIPTION: Python Learning
+* this is the git repo for python learn.
+- Dive into Python http://woodpecker.org.cn/diveintopython/toc/index.html
