@@ -1,4 +1,8 @@
 #+TITLE: Language
 #+DESCRIPTION: Human and Computer Language Repo
 #+AUTHOR: Leo Fu
-Human and Computer Language Repo
+* Human and Computer Language Repo
+** English
+- [[file:English/jane-daily.org][Jane's Daily English Learning]]
+** Java
+- [[file:Java/java-learn.org][Java Learning]]
